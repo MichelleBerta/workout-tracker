@@ -27,3 +27,4 @@ This workout tracker is a full stack application designed for the user to view, 
 ![workout-tracker](assets/workout-tracker.png)
 
 ## Demonstration
+![workout-tracker](assets/workout-tracker.gif)
